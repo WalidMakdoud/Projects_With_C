@@ -31,11 +31,10 @@ Contient **tous les jeux combinés dans un seul programme ******"WalTendo"******
 - [WalTendo.c](./Projets%20Des%20Jeux/Version%20Finale/WalTendo.c) : permet de choisir et jouer à tous les jeux (Nombre Mystère, Pendu, Pierre-Feuille-Ciseaux, Tic-Tac-Toe) depuis un menu.
 
 ---
-```
+
 
 
 # 👨‍💻 Auteur
 ******WALID MAKDOUD******
 
 
-```
