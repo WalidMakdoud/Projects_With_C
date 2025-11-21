@@ -3,7 +3,7 @@
 Ce dossier contient les versions initiales de chaque mini-jeu.
 Chaque section ci-dessous décrit exactement comment la partie se déroule lorsque le joueur lance le jeu.
 
-## 🔢 Jeu du Nombre Mystère – Déroulement
+## 🔢 Jeu du Nombre Mystère
 
 *****1.***** Le programme génère un nombre aléatoire entre 1 et 10.
 
@@ -27,7 +27,7 @@ Chaque section ci-dessous décrit exactement comment la partie se déroule lorsq
 
 *****7.***** Le programme affiche le résultat final.
 
-## ✊📄✂️ Pierre – Feuille – Ciseaux – Déroulement
+## ✊📄✂️ Pierre – Feuille – Ciseaux
 
 *****1.***** Le jeu affiche les choix possibles :
 
@@ -60,7 +60,7 @@ Chaque section ci-dessous décrit exactement comment la partie se déroule lorsq
 *****5.***** Le résultat est affiché immédiatement.
 
 
-## ❌⭕ Tic Tac Toe – Déroulement
+## ❌⭕ Tic Tac Toe
 
 *****1.***** Une Matrice 3×3 vide est affichée.
 
@@ -102,7 +102,7 @@ Chaque section ci-dessous décrit exactement comment la partie se déroule lorsq
 
 *****9.***** Le résultat est affiché.
 
-## 🔤 Jeu du Pendu – Déroulement
+## 🔤 Jeu du Pendu
 
 *****1.***** Le programme choisit un mot dans mot.txt.
 
