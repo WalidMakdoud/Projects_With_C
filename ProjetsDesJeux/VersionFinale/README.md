@@ -52,12 +52,12 @@ Le jeu affiche également : Victoires, Défaites, Parties jouées
 # ▶️ Compilation & Exécution
 Compiler :
 ```c
-# gcc WalTendo.c -o WalTendo
+gcc WalTendo.c -o WalTendo
 ```
 
 Exécuter :
 ```c
-# ./WalTendo
+./WalTendo
 ```
 
 
