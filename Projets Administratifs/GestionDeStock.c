@@ -462,7 +462,9 @@ void menu() {
 	int choixModifier;
 	do{
 	
-		system("clear"); //clear pour Linux Ou cls pour Windows
+		system("cls"); //clear pour Linux Ou cls pour Windows
+		//pouequoi j'ai utiliser cls? car la plupart utilisent Windows /-_*\
+		//															   |___|
 
 		printf("===========================================================\n");
         	printf("       Bonjour au Gestion du Stock de Produits\n");
